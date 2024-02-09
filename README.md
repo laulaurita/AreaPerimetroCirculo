@@ -1,5 +1,5 @@
 # Ejercicio No.1
-## calcular el aarea y el perimetro del circulo r
+## calcular el area y el perimetro del circulo r
 
 # ANALISIS 
 
